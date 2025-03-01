@@ -1,0 +1,6 @@
+@CRM.LeadService_HostAddress = http://localhost:5198
+
+GET {{CRM.LeadService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

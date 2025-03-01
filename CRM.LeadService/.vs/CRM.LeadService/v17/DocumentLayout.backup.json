@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CRM-MicroServices\\CRM.LeadService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\dtos\\postlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:dtos\\postlead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|e:\\crm-microservices\\crm.leadservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5F1D873-C1E8-46B9-824C-261536EC51AA}|CRM.LeadService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostLead.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\DTOs\\PostLead.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostLead.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\DTOs\\PostLead.cs",
+              "RelativeToolTip": "DTOs\\PostLead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:10:03.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:03:00.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:02:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T15:00:25.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeadController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "Controllers\\LeadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.LeadService\\Models\\Lead.cs",
+              "RelativeDocumentMoniker": "Models\\Lead.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.LeadService\\Models\\Lead.cs",
+              "RelativeToolTip": "Models\\Lead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:56:17.695Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

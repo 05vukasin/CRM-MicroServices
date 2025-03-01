@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p1tTs3Vgj6hSkvsXSAtDUKTzRoXKo1ZDZ4H4mppPprE=",
+  "Source": "CRM.LeadService",
+  "BasePath": "_content/CRM.LeadService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
