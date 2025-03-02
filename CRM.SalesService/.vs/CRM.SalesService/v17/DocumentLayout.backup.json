@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CRM-MicroServices\\CRM.SalesService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|e:\\crm-microservices\\crm.salesservice\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7130179B-BF52-4D87-8140-43773CD63AF0}|CRM.SalesService.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:45:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:40:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:30:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:29:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:44:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:43:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T15:42:51.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.SalesService\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:43:38.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

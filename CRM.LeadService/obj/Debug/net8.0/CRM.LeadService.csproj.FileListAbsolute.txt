@@ -174,3 +174,4 @@ E:\CRM-MicroServices\CRM.LeadService\obj\Debug\net8.0\refint\CRM.LeadService.dll
 E:\CRM-MicroServices\CRM.LeadService\obj\Debug\net8.0\CRM.LeadService.pdb
 E:\CRM-MicroServices\CRM.LeadService\obj\Debug\net8.0\CRM.LeadService.genruntimeconfig.cache
 E:\CRM-MicroServices\CRM.LeadService\obj\Debug\net8.0\ref\CRM.LeadService.dll
+E:\CRM-MicroServices\CRM.LeadService\obj\Debug\net8.0\CRM.LeadService.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8eqLcPf4UdxQ/IaDId7OGAGXDLQ2WxmMt4DJc5sxedI=",
+  "Source": "CRM.SalesService",
+  "BasePath": "_content/CRM.SalesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
