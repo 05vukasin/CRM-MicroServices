@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9redHiQ/z2JNwCxukyS6WA0aK9gjbVsoQk8boDpQ80s=",
+  "Source": "CRM.AuthenticationService",
+  "BasePath": "_content/CRM.AuthenticationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

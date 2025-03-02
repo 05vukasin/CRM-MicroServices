@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|e:\\crm-microservices\\crm.customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|e:\\crm-microservices\\crm.customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|e:\\crm-microservices\\crm.customerservice\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE7EAFCD-D621-48CC-A80B-C35F7348629F}|CRM.CustomerService.csproj|e:\\crm-microservices\\crm.customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -52,9 +52,9 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "E:\\CRM-MicroServices\\CRM.CustomerService\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-27T15:30:07.547Z",
+              "WhenOpened": "2025-03-01T15:36:41.37Z",
               "EditorCaption": ""
             },
             {
@@ -67,11 +67,12 @@
               "RelativeToolTip": "DTOs\\PostCustomer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:34:27.348Z"
+              "WhenOpened": "2025-02-27T14:34:27.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.CustomerService\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
@@ -83,15 +84,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.CustomerService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\CRM-MicroServices\\CRM.CustomerService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:26:24.779Z"
+              "WhenOpened": "2025-02-27T14:26:24.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +117,8 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:21:27.685Z"
+              "WhenOpened": "2025-02-27T14:21:27.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

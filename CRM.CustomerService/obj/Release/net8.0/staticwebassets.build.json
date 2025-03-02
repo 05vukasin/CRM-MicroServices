@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nqh+t5Sz0xObHswQV07d5BrtvQhkeRee9HwWU0huofo=",
+  "Source": "CRM.CustomerService",
+  "BasePath": "_content/CRM.CustomerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

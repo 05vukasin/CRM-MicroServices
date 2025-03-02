@@ -153,3 +153,4 @@ E:\CRM-MicroServices\CRM.CustomerService\obj\Release\net8.0\linux-x64\refint\CRM
 E:\CRM-MicroServices\CRM.CustomerService\obj\Release\net8.0\linux-x64\CRM.CustomerService.pdb
 E:\CRM-MicroServices\CRM.CustomerService\obj\Release\net8.0\linux-x64\CRM.CustomerService.genruntimeconfig.cache
 E:\CRM-MicroServices\CRM.CustomerService\obj\Release\net8.0\linux-x64\ref\CRM.CustomerService.dll
+E:\CRM-MicroServices\CRM.CustomerService\obj\Release\net8.0\linux-x64\CRM.CustomerService.sourcelink.json
