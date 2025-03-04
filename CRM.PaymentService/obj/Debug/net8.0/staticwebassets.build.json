@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i40lf1oJpSvamIyw/zbgREbQkfwjN2sqMwasjkaGn4k=",
+  "Source": "CRM.PaymentService",
+  "BasePath": "_content/CRM.PaymentService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

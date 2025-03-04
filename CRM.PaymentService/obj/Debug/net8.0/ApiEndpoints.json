@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "CRM.PaymentService.Controllers.TransactionController",
+    "Method": "GetTransactionStatus",
+    "RelativePath": "api/Transaction/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.PaymentService.Controllers.TransactionController",
+    "Method": "CreateDeposit",
+    "RelativePath": "api/Transaction/deposit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "depositRequest",
+        "Type": "CRM.PaymentService.DTOs.DepositRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.PaymentService.Controllers.TransactionController",
+    "Method": "CreateWithdrawal",
+    "RelativePath": "api/Transaction/withdraw",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "withdrawalRequest",
+        "Type": "CRM.PaymentService.DTOs.WithdrawalRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.PaymentService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c1eebc64695c229fef35f02a252314af40c157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ffe4f79221d44a5c0cbe08bb1a071814361e20")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.PaymentService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.PaymentService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

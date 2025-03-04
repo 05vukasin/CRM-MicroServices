@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\CRM-MicroServices\\CRM.PaymentService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\dtos\\transactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:dtos\\transactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\services\\stripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:services\\stripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|e:\\crm-microservices\\crm.paymentservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5286A5-A044-436E-B739-2FFF9A6FB04D}|CRM.PaymentService.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsDto.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\DTOs\\TransactionsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TransactionsDto.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\DTOs\\TransactionsDto.cs*",
+              "RelativeToolTip": "DTOs\\TransactionsDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:28:11.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:20:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:19:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StripePaymentService.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\Services\\StripePaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\StripePaymentService.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\Services\\StripePaymentService.cs",
+              "RelativeToolTip": "Services\\StripePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:17:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T19:13:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.PaymentService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.PaymentService\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:14:04.378Z",
+              "EditorCaption": ""
             }
           ]
         },
