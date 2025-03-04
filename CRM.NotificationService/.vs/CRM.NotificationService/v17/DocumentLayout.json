@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CRM-MicroServices\\CRM.NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\controllers\\usagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:controllers\\usagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\controllers\\gmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:controllers\\gmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\dtos\\sendemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:dtos\\sendemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\controllers\\gmailagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:controllers\\gmailagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\dtos\\postgmailagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:dtos\\postgmailagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\models\\gmailagentusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:models\\gmailagentusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\models\\gmailagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:models\\gmailagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|e:\\crm-microservices\\crm.notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20CCDD21-1FC9-4823-B2FF-314559F4BA5C}|CRM.NotificationService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:26:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendEmailRequest.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\DTOs\\SendEmailRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\SendEmailRequest.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\DTOs\\SendEmailRequest.cs",
+              "RelativeToolTip": "DTOs\\SendEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:25:14.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GmailController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\GmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GmailController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\GmailController.cs",
+              "RelativeToolTip": "Controllers\\GmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:22:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsageController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\UsageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsageController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\UsageController.cs",
+              "RelativeToolTip": "Controllers\\UsageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:18:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostGmailAgent.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\DTOs\\PostGmailAgent.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostGmailAgent.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\DTOs\\PostGmailAgent.cs",
+              "RelativeToolTip": "DTOs\\PostGmailAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:14:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:00:38.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:56:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GmailAgentController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\GmailAgentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GmailAgentController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Controllers\\GmailAgentController.cs",
+              "RelativeToolTip": "Controllers\\GmailAgentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:14:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GmailAgentUsage.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Models\\GmailAgentUsage.cs",
+              "RelativeDocumentMoniker": "Models\\GmailAgentUsage.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Models\\GmailAgentUsage.cs",
+              "RelativeToolTip": "Models\\GmailAgentUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:09:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GmailAgent.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\Models\\GmailAgent.cs",
+              "RelativeDocumentMoniker": "Models\\GmailAgent.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\Models\\GmailAgent.cs",
+              "RelativeToolTip": "Models\\GmailAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:57:42.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.NotificationService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.NotificationService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T14:54:59.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

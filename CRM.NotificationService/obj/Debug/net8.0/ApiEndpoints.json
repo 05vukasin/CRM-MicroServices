@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.GmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Gmail/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CRM.NotificationService.DTOs.SendEmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.GmailAgentController",
+    "Method": "PostGmailAgent",
+    "RelativePath": "api/GmailAgent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postGmailAgent",
+        "Type": "CRM.NotificationService.DTOs.PostGmailAgent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.GmailAgentController",
+    "Method": "GetGmailAgents",
+    "RelativePath": "api/GmailAgent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.GmailAgentController",
+    "Method": "DeleteGmailAgent",
+    "RelativePath": "api/GmailAgent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.UsageController",
+    "Method": "GetGmailAgentUsages",
+    "RelativePath": "api/Usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.NotificationService.Controllers.UsageController",
+    "Method": "GetGmailAgentUsage",
+    "RelativePath": "api/Usage/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

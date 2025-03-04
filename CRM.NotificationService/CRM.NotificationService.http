@@ -1,0 +1,6 @@
+@CRM.NotificationService_HostAddress = http://localhost:5085
+
+GET {{CRM.NotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/vT9ViPRSFTRMVsaAhmPyrkFMg1pFn4Qtz1bkKEjrw0=",
+  "Source": "CRM.NotificationService",
+  "BasePath": "_content/CRM.NotificationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

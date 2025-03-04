@@ -1,0 +1,6 @@
+@CRM.AIService_HostAddress = http://localhost:5201
+
+GET {{CRM.AIService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
