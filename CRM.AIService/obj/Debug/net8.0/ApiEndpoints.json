@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "CRM.AIService.Controllers.AIController",
+    "Method": "AskAI",
+    "RelativePath": "api/AI/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CRM.AIService.DTOs.AskAIRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.AIService.Controllers.AIAgentController",
+    "Method": "PostAIAgent",
+    "RelativePath": "api/AIAgent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postAIAgent",
+        "Type": "CRM.AIService.DTOs.PostAIAgent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.AIService.Controllers.AIAgentController",
+    "Method": "GetAIAgents",
+    "RelativePath": "api/AIAgent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.AIService.Controllers.AIAgentController",
+    "Method": "DeleteAIAgent",
+    "RelativePath": "api/AIAgent/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.AIService.Controllers.UsageController",
+    "Method": "GetAllUsage",
+    "RelativePath": "api/Usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.AIService.Controllers.UsageController",
+    "Method": "GetUsageByAgent",
+    "RelativePath": "api/Usage/{aiAgentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aiAgentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

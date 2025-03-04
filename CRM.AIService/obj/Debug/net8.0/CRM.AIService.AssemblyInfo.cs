@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM.AIService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c1eebc64695c229fef35f02a252314af40c157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4de0b87ae1ad40999c59f8e076208aeb6423e355")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM.AIService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM.AIService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

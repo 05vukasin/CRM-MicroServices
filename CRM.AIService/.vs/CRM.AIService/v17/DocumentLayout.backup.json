@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\CRM-MicroServices\\CRM.AIService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\ai\\gemini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:ai\\gemini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\ai\\deepseek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:ai\\deepseek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\ai\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:ai\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\controllers\\usagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:controllers\\usagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\models\\aiagentusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:models\\aiagentusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\controllers\\aiagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:controllers\\aiagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\models\\aiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:models\\aiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\dtos\\postaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:dtos\\postaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\dtos\\askairequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:dtos\\askairequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|e:\\crm-microservices\\crm.aiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B874CF01-8140-47F5-B2FD-BA4A319B0AE3}|CRM.AIService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatGPT.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\ChatGPT.cs",
+              "RelativeDocumentMoniker": "AI\\ChatGPT.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\ChatGPT.cs",
+              "RelativeToolTip": "AI\\ChatGPT.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:07:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AIController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\AIController.cs",
+              "RelativeToolTip": "Controllers\\AIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:20:53.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "Services\\AIService.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Services\\AIService.cs",
+              "RelativeToolTip": "Services\\AIService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:06:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsageController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\UsageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsageController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\UsageController.cs",
+              "RelativeToolTip": "Controllers\\UsageController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:05:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIAgentUsage.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Models\\AIAgentUsage.cs",
+              "RelativeDocumentMoniker": "Models\\AIAgentUsage.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Models\\AIAgentUsage.cs",
+              "RelativeToolTip": "Models\\AIAgentUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:45:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeepSeek.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\DeepSeek.cs",
+              "RelativeDocumentMoniker": "AI\\DeepSeek.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\DeepSeek.cs",
+              "RelativeToolTip": "AI\\DeepSeek.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:19:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gemini.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\Gemini.cs",
+              "RelativeDocumentMoniker": "AI\\Gemini.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\AI\\Gemini.cs",
+              "RelativeToolTip": "AI\\Gemini.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:07:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:58:31.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AIAgentController.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\AIAgentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AIAgentController.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Controllers\\AIAgentController.cs",
+              "RelativeToolTip": "Controllers\\AIAgentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:02:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostAIAgent.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\DTOs\\PostAIAgent.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostAIAgent.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\DTOs\\PostAIAgent.cs",
+              "RelativeToolTip": "DTOs\\PostAIAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:02:54.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIAgent.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Models\\AIAgent.cs",
+              "RelativeDocumentMoniker": "Models\\AIAgent.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Models\\AIAgent.cs",
+              "RelativeToolTip": "Models\\AIAgent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:45:38.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:57:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AskAIRequest.cs",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\DTOs\\AskAIRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\AskAIRequest.cs",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\DTOs\\AskAIRequest.cs",
+              "RelativeToolTip": "DTOs\\AskAIRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:21:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CRM-MicroServices\\CRM.AIService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CRM-MicroServices\\CRM.AIService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T15:57:26.141Z",
+              "EditorCaption": ""
             }
           ]
         },
