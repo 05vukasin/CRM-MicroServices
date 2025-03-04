@@ -49,3 +49,20 @@ Da biste pokrenuli projekat, pratite sledeće korake:
 ```sh
 git clone https://github.com/05vukasin/CRM-MicroServices.git
 cd CRM-MicroServices
+
+### **2️⃣ Podesite appsettings.json za svaki mikroservis**
+Svaki mikroservis ima svoj `appsettings.json` fajl u kojem treba da podesite odgovarajuću konekciju ka bazi podataka. Primer za `CRM.LeadService`:
+
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=your_server_name;Database=CRM.LeadService-0.0.1;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
