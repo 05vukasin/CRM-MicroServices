@@ -1,68 +1,56 @@
 # 🚀 CRM-MicroServices
 
-## 📌 Opis projekta
-CRM-MicroServices je **skalabilni CRM sistem** razvijen u **.NET** tehnologiji koristeći **mikroservisnu arhitekturu**.  
-Ovaj sistem omogućava upravljanje korisnicima, klijentima, proizvodima, prodajom, AI asistentima, obaveštenjima i plaćanjima.
+## 📌 Project Description
+CRM-MicroServices is a **scalable CRM system** developed using **.NET** technology with a **microservices architecture**.  
+This system enables the management of users, clients, products, sales, AI assistants, notifications, and payments.
 
-🔹 **Glavne funkcionalnosti**:
-- ✅ **Autentifikacija** (JWT tokeni, autorizacija korisnika)
-- ✅ **Upravljanje klijentima i leadovima**
-- ✅ **Upravljanje proizvodima i prodajom**
-- ✅ **AI servisi** (ChatGPT, Gemini, DeepSeek) za analizu i odgovore
-- ✅ **Notifikacije putem emaila**
-- ✅ **Plaćanja integrisana sa Stripe API-jem**
-- ✅ **Skalabilna arhitektura uz Docker i Kubernetes podršku**
-
----
-
-## ⚙️ **Tehnologije**
-🔧 Ovaj projekat koristi sledeće tehnologije:
-- **C# .NET 7**
-- **Entity Framework Core** (EF Core) – ORM za rad sa bazama podataka
-- **SQL Server** – Relaciona baza podataka
-- **Docker & Kubernetes** – Deployment i skaliranje mikroservisa
-- **Swagger** – API dokumentacija
-- **Stripe API** – Procesiranje plaćanja
-- **Azure Storage** – Čuvanje slika proizvoda
+🔹 **Key Features**:
+- ✅ **Authentication** (JWT tokens, user authorization)
+- ✅ **Client and lead management**
+- ✅ **Product and sales management**
+- ✅ **AI services** (ChatGPT, Gemini, DeepSeek) for analysis and responses
+- ✅ **Email notifications**
+- ✅ **Payments integrated with Stripe API**
+- ✅ **Scalable architecture with Docker and Kubernetes support**
 
 ---
 
-## 🏗️ **Mikroservisi**
-CRM-MicroServices je podelejen na **7 mikroservisa**, svaki sa specifičnom funkcionalnošću:
+## ⚙️ **Technologies**
+🔧 This project uses the following technologies:
+- **C# .NET 8**
+- **Entity Framework Core** (EF Core) – ORM for database operations
+- **SQL Server** – Relational database
+- **Docker & Kubernetes** – Deployment and scaling of microservices
+- **Swagger** – API documentation
+- **Stripe API** – Payment processing
+- **Azure Storage** – Storing product images
 
-| Mikroservis                | Opis funkcionalnosti |
+---
+
+## 🏗️ **Microservices**
+CRM-MicroServices is divided into **7 microservices**, each with specific functionality:
+
+| Microservice                | Functional Description |
 |----------------------------|----------------------|
-| **CRM.AuthenticationService** | Upravljanje autentifikacijom korisnika (JWT) |
-| **CRM.CustomerService** | Upravljanje klijentima i leadovima |
-| **CRM.ProductService** | Kreiranje, uređivanje i brisanje proizvoda |
-| **CRM.SalesService** | Kreiranje i upravljanje narudžbinama |
-| **CRM.AIService** | AI asistenti (ChatGPT, Gemini, DeepSeek) |
-| **CRM.NotificationService** | Slanje email notifikacija |
-| **CRM.PaymentService** | Stripe integracija za plaćanja |
+| **CRM.AuthenticationService** | User authentication management (JWT) |
+| **CRM.CustomerService** | Client and lead management |
+| **CRM.ProductService** | Creating, editing, and deleting products |
+| **CRM.SalesService** | Creating and managing orders |
+| **CRM.AIService** | AI assistants (ChatGPT, Gemini, DeepSeek) |
+| **CRM.NotificationService** | Sending email notifications |
+| **CRM.PaymentService** | Stripe integration for payments |
 
 ---
 
-## 📥 **Instalacija i pokretanje**
-Da biste pokrenuli projekat, pratite sledeće korake:
+## 📥 **Installation and Setup**
+To run the project, follow these steps:
 
-### **1️⃣ Klonirajte repozitorijum**
-```sh
-git clone https://github.com/05vukasin/CRM-MicroServices.git
-cd CRM-MicroServices
-
-### **2️⃣ Podesite appsettings.json za svaki mikroservis**
-Svaki mikroservis ima svoj `appsettings.json` fajl u kojem treba da podesite odgovarajuću konekciju ka bazi podataka. Primer za `CRM.LeadService`:
+### **Configure appsettings.json for each microservice**
+Each microservice has its own `appsettings.json` file where you need to set up the appropriate database connection. Example for `CRM.LeadService`:
 
 ```json
 {
   "ConnectionStrings": {
     "DefaultConnection": "Server=your_server_name;Database=CRM.LeadService-0.0.1;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
-  },
-  "Logging": {
-    "LogLevel": {
-      "Default": "Information",
-      "Microsoft.AspNetCore": "Warning"
-    }
-  },
-  "AllowedHosts": "*"
+  }
 }
