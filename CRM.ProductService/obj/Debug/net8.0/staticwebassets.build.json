@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "587trayO7JkAQSxfGwE+Jc1CzqJCS12zNMHZ2cgAQag=",
+  "Source": "CRM.ProductService",
+  "BasePath": "_content/CRM.ProductService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
